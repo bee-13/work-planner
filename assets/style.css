@@ -16,3 +16,30 @@ h1 {
     margin-bottom: 20px;
 }
 /*---------header of the webpage---------*/
+.schedule-container {
+    margin: 0 auto;
+    width: 800px;
+    max-width: 80%;
+    padding: 20px;
+}
+
+.save-btn {
+    background-color: rgb(0, 110, 255);
+    color: white;
+}
+
+.time {
+    padding: 10px;
+}
+
+.past {
+    background-color: rgb(253, 98, 98);
+}
+
+.future {
+    background-color: rgb(66, 184, 66);
+}
+
+.present {
+    background-color: rgb(156, 156, 156);
+}
