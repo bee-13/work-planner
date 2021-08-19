@@ -11,4 +11,4 @@ When text is saved, text area it will be displayed in the textbox
 
 link: https://bee-13.github.io/work-planner/
 
-![](images/pic.png)
+![](assets/images/pic.png)
